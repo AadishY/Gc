@@ -1,0 +1,13 @@
+# For the Vercel KV store
+vercel-kv
+redis
+
+# For Google APIs (Search and Gemini)
+google-api-python-client
+google-generativeai
+
+# For making HTTP requests in the client
+requests
+
+# For handling environment variables locally
+python-dotenv
